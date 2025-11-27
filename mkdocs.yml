@@ -1,0 +1,13 @@
+site_name: CA:VE Documentation
+theme: mkdocs
+
+nav:
+  - Home: index.md
+  - Portable Box: portable_forest_box.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - footnotes
